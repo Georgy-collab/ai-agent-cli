@@ -1,0 +1,13 @@
+.env
+agent/.env
+agent/memory.json
+agent/memory.json.tmp
+files/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+agent/logs/
+*.log
+.idea/
+.vscode/
